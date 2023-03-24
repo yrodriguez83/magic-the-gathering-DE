@@ -1,0 +1,18 @@
+# terraform
+terraform/.terraform
+terraform/.terraform-version
+terraform/.terraform.lock.hcl
+terraform/terraform.tfstate.backup
+terraform/terraform.tfstate
+
+# prefect
+prefect/__pycache__/*
+api_to_bq_orchestration-deployment.yaml
+
+# jupyter notebook
+**.ipynb
+**.ipynb_checkpoints
+
+# large files
+**.parquet
+**.parquet.snappy
