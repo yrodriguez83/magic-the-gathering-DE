@@ -120,4 +120,3 @@ With a growing database, I would be able to further explore the following:
 - What is the color distribution over time?
 - What is the price development of specific cards / colors / sets over time?
 
-# magic-the-gathering-DE
